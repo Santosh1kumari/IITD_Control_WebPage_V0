@@ -1,7 +1,7 @@
 
 var count = 0;
 var image = [];
-image[0] = 'slider/image1.jpg';
+image[0] = 'slider/';
 image[1] = 'slider/image2.jpg';
 image[2] = 'slider/image3.jpeg';
 image[3] = 'slider/image5.jpg';
